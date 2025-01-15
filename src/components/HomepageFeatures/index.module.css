@@ -1,0 +1,18 @@
+/* index.module.css */
+.feature {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .featureTitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .featureDescription {
+    font-size: 1rem;
+    color: #666;
+  }
